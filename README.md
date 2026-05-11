@@ -128,6 +128,13 @@ int main(void)
 ## OFF
 <img width="1600" height="1200" alt="WhatsApp Image 2026-05-07 at 10 56 15 AM" src="https://github.com/user-attachments/assets/df96fdb1-f014-4d6b-bde5-e105eb5b1b0b" />
 
+## LED ON
+<img width="720" height="1280" alt="588237262-800b06b7-ee78-4d15-9d9e-6610399737ed" src="https://github.com/user-attachments/assets/5a7a1aee-219c-4a05-a7ca-8c8c9dfd85cc" />
+
+## LED OFF
+
+
+<img width="720" height="1280" alt="588237375-2a80ca99-922c-46d8-82a9-a5b7f02de4b4" src="https://github.com/user-attachments/assets/d571ff1d-9bef-4a99-ace8-abe7702efa10" />
 
 
 
